@@ -1,1 +1,1 @@
-# automatic-solar-cleaner
+# Automatic-Solar-Sleaner
